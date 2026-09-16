@@ -1,7 +1,5 @@
 # Python for Data Analytics pROJECT
 
-[![Python for Data Analytics](3_Project/images/Python_Data_Analytics_YT.png)]
-
 ### [Chapter 1: Python Basics](/1_Basics/)
 
 - Introduction to Python
