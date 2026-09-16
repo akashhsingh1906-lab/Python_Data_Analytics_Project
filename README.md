@@ -1,4 +1,5 @@
-# Python for Data Analytics pROJECT
+# Python for Data Analytics Project
+
 
 ### [Chapter 1: Python Basics](/1_Basics/)
 
